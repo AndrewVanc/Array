@@ -19,7 +19,7 @@ public class Main {
             numbers[i] = scanner.nextInt();
         }
 
-        // Sort and print the array
+        // Sort and print the array here
         int[] sortedNumbers = sortIntegers(numbers);
         System.out.println("Sorted integers: " + Arrays.toString(sortedNumbers));
     }

@@ -5,10 +5,10 @@ This repository contains examples for sorting arrays of integers and strings usi
 ## Features
 
 - Integer Sorting: Sorts a list of integers in ascending order using `Arrays.sort()`. 
-More information C:\Users\andre\Desktop\Git\array-examples\integer-sorting\README.md
+More information C:\Users\andre\Desktop\Git\array-examples\integer-sorting\README1.md
 
 - String Sorting: Sorts a list of strings in alphabetical order using `Arrays.sort()`.
-More information C:\Users\andre\Desktop\Git\array-examples\string-sorting\README.md
+More information C:\Users\andre\Desktop\Git\array-examples\string-sorting\README2.md
 
 ## Usage
 
